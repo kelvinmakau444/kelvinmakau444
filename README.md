@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hey, I’m Kelvin Makau  
 
-<!--
-**kelvinmakau444/kelvinmakau444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 I work on (in no strict order):
 
-Here are some ideas to get you started:
+- Android – Kotlin, Java, Jetpack Compose, XML, Firebase, Room, App Center
+- UI/UX – Clean, responsive UI, Jetpack libraries, accessibility-aware designs
+- Backend touchpoints – Firebase, REST APIs, light PHP, USSD gateways
+- CI/CD – Bitbucket Pipelines, Google Play Console, App Center staging & release
+- Other – POS receipt printing, Mastercard/Visa SDKs, USSD/SMS integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently working at:  
+**Android Developer @ Musoni**  
+Crafting fintech tools for field and branch officers at microfinance institutions using the Musoni Digital Field Application (DFA).
+
+💼 Previously worked at:
+
+- **[Impala Pay Ltd](https://www.impalapay.com/)** – Developed the FCA-regulated ImpalaPay UK app for cross-border payments  
+- **[Craft Silicon Ltd](https://www.craftsilicon.com/)** – Contributed to Android development for mobile banking apps used by banks in Kenya and Tanzania  
+- **[Zalego Academy](https://zalegoacademy.ac.ke/)** – Tutored Android, USSD, and GSM development while building dev curriculum  
+- **[Primesoft Ltd](https://www.primesoft.co.ke/)** – Interned in Android development; worked on UI/UX and backend integrations  
+
+🎯 When I’m not coding:
+
+- Watching movies
+- Exploring new places
+
+📫 Where to find me:  
+- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/kelvin-makau-developer/)  
