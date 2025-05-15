@@ -9,7 +9,7 @@
 - Other – POS receipt printing, Mastercard/Visa SDKs, USSD/SMS integration
 
 💼 Currently working at:  
-**Android Developer @ Musoni**  
+**[Android Developer - Musoni](https://musonisystem.com/)**  
 Crafting fintech tools for field and branch officers at microfinance institutions using the Musoni Digital Field Application (DFA).
 
 💼 Previously worked at:
