@@ -17,7 +17,6 @@ Crafting fintech tools for field and branch officers at microfinance institution
 - **[Impala Pay Ltd](https://www.impalapay.com/)** – Developed the FCA-regulated ImpalaPay UK app for cross-border payments  
 - **[Craft Silicon Ltd](https://www.craftsilicon.com/)** – Contributed to Android development for mobile banking apps used by banks in Kenya and Tanzania  
 - **[Zalego Academy](https://zalegoacademy.ac.ke/)** – Tutored Android, USSD, and GSM development while building dev curriculum  
-- **[Primesoft Ltd](https://www.primesoft.co.ke/)** – Interned in Android development; worked on UI/UX and backend integrations  
 
 🎯 When I’m not coding:
 
