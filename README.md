@@ -22,6 +22,7 @@ Crafting fintech tools for field and branch officers at microfinance institution
 
 - Watching movies
 - Exploring new places
+- Playing board games and networking with friends
 
 📫 Where to find me:  
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/kelvin-makau-developer/)  
