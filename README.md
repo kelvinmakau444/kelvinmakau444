@@ -2,7 +2,7 @@
 
 🧰 I work on (in no strict order):
 
-- Android – Kotlin, Java, Jetpack Compose, XML, Firebase, Room, App Center
+- Android – Kotlin, Java, Jetpack Compose, XML, Firebase, Room
 - UI/UX – Clean, responsive UI, Jetpack libraries, accessibility-aware designs
 - Backend touchpoints – Firebase, REST APIs, light PHP, USSD gateways
 - CI/CD – Bitbucket Pipelines, Google Play Console, App Center staging & release
